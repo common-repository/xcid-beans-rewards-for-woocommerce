@@ -1,0 +1,1 @@
+<span class="beans-unit"><?php echo $beans . ' ' . $beans_name ?></span>

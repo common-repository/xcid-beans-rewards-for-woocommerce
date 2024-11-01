@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beans Loyalty & Reward Program Woocommerce\n"
+"POT-Creation-Date: 2016-01-19 10:54+0100\n"
+"PO-Revision-Date: 2016-01-19 10:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wc-settings-beans.php:18 admin/class-wc-settings-beans.php:49
+msgid "Beans"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:37
+msgid "General Options"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:53 admin/class-wc-settings-beans.php:94
+#: admin/class-wc-settings-beans.php:126 admin/class-wc-settings-beans.php:160
+msgid "Enable"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:54
+msgid "Enable this plugin"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:73
+msgid "Configuration"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:77
+msgid "Api Key"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:78
+msgid "Your beans API Key"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:88
+msgid "Cart setup"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:95
+msgid "Enable on cart page"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:101 admin/class-wc-settings-beans.php:133
+#: admin/class-wc-settings-beans.php:167
+msgid "Position"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:102 admin/class-wc-settings-beans.php:134
+#: admin/class-wc-settings-beans.php:168
+msgid "Choose the position of the box"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:108
+msgid "Cart collaterals"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:109
+msgid "Before cart table"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:110
+msgid "Before cart contents"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:111
+msgid "After cart contents"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:112
+msgid "After cart"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:120
+msgid "Product setup"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:127
+msgid "Enable on product page"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:140
+msgid "After add to cart button"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:141
+msgid "After summary"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:142
+msgid "Before summary"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:143
+msgid "After meta"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:144
+msgid "Before meta"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:145
+msgid "Product Thumbnails"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:146
+msgid "Share position"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:154
+msgid "Checkout setup"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:161
+msgid "Enable on checkout page"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:174
+msgid "Before form"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:175
+msgid "After customer details"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:176
+msgid "After form"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:238
+#, php-format
+msgid ""
+"<div id=\"message2\" class=\"error\"><p>Your api key is invalid, message : "
+"%s</p></div>"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:246
+#, php-format
+msgid ""
+"<div id=\"message1\" class=\"update-nag\">Your current rate is : %s beans "
+"are worth %s</div>"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:249
+#, php-format
+msgid ""
+"<div id=\"message2\" class=\"update-nag\">Your currency spent is : %s.</div>"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:251
+msgid ""
+"<div id=\"message2\" class=\"error\"><p>Your currency spent is inactive</p></"
+"div>"
+msgstr ""
+
+#: admin/class-wc-settings-beans.php:255
+msgid ""
+"<div id=\"message\" class=\"error\"><p>Your account is on test mode</p></div>"
+msgstr ""
+
+#: templates/cart-cancel.php:1
+#, php-format
+msgid "You have chosen to redeem %s. "
+msgstr ""
+
+#: templates/cart-join.php:1
+#, php-format
+msgid "Join our reward program and earn %s with this purchase. "
+msgstr ""
+
+#: templates/cart-redeem.php:1
+#, php-format
+msgid "You have %s. "
+msgstr ""
+
+#: templates/product-message.php:3
+#, php-format
+msgid "Buy this product and earn %s."
+msgstr ""
+
+#: templates/register-form.php:5
+msgid "First Name"
+msgstr ""
+
+#: templates/register-form.php:13
+msgid "Last Name"
+msgstr ""
+
+#: templates/reward-program-balance.php:3
+msgid "Balance"
+msgstr ""
+
+#: templates/reward-program-history.php:3
+msgid "History"
+msgstr ""
+
+#: templates/reward-program-join.php:4
+msgid "Join now"
+msgstr ""
+
+#: templates/reward-program-join.php:6
+#, php-format
+msgid ""
+"Join our customer reward program and get <span id=\"beans-if-join\">%s</span>"
+msgstr ""
+
+#: templates/reward-program-join.php:7
+msgid "that you can spend now in our shop or save for a later purchase."
+msgstr ""
+
+#: templates/reward-program-rules.php:2
+msgid "Rules"
+msgstr ""
+
+#: templates/worth.php:1
+#, php-format
+msgid "%s are worth %s."
+msgstr ""
+
+#: templates/worth.php:2
+msgid "Learn more"
+msgstr ""
+
+#: xcid-beans.php:597
+#, php-format
+msgid "Customer loyalty rewarded for a %s purchase"
+msgstr ""
+
+#: xcid-beans.php:632
+#, php-format
+msgid "Debited for a %s %s discount"
+msgstr ""
+
+#: xcid-beans.php:759
+msgid "reward-program"
+msgstr ""
+
+#: xcid-beans.php:759
+msgid "Reward Program"
+msgstr ""

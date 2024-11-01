@@ -1,0 +1,16 @@
+{
+  "name": "xcid-beans",
+  "version": "1.2.18",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-compress": "^0.13.0",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-bump": "*",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-hazy": "^0.1.7",
+    "grunt-php-set-constant " : "*"
+  }
+}
